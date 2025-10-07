@@ -22,7 +22,7 @@
 
 .box:hover {
     box-shadow: red 0 0 50px;
-    transform: scaleY(1.5);
+    transform: scale(1.5);
     transform-origin: top;
     background-color: gold;
 }
